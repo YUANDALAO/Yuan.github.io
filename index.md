@@ -32,6 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - Master of Science, Life Science, Lanzhou University, 2017.9-2020.6
 - Bsc, Life Science, Lanzhou University, 2013.9-2017.6
 
+### Social media
 - Email: yuan.chen.20@ucl.ac.uk
 - Twitter: @cheriongyuan
 - Github: YUANDALAO
