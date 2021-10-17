@@ -1,25 +1,23 @@
-## Welcome to GitHub Pages
+## Chen, Yuan 
 
 You can use the [editor on GitHub](https://github.com/YUANDALAO/Yuan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Who am I
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently a second-year PhD student in Dep of Anthropology at University College London (UCL), under supervision of Prof. Ruth Mace and Dr. Mark Dyble. My research interest is mainly focusing on the group dynamics among human populations, and the evolution of human behaviour, inclusive of human cooperation, mate competition and sexual division of labour and bargaining theory. 
+
+- sex-biased cooperation behaviour 
+- mating strategy
+- bargaining theory
+- cost and benefit of celibacy
 
 ```markdown
-Syntax highlighted code block
+My publications
 
-# Header 1
-## Header 2
-### Header 3
-https://github.com/zhgarfield/zhgarfield.github.io.git
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. .**Chen, Yuan**, et.al. Large-scale cooperation driven by reputation, but not fear of divine punishment. _Royal Society Open Science_. 2019
+2. 
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,10 +26,12 @@ https://github.com/zhgarfield/zhgarfield.github.io.git
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Education and Research Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YUANDALAO/Yuan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- PhD, Biological Anthropology, UCL, 2020.9-2024.9 
+- Master of Science, Life Science, Lanzhou University, 2017.9-2020.6
+- Bsc, Life Science, Lanzhou University, 2013.9-2017.6
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Email: yuan.chen.20@ucl.ac.uk
+Twitter: @cheriongyuan
+Github: YUANDALAO
