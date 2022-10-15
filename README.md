@@ -23,7 +23,7 @@ I am currently a Ph.D. candidate at University College London (UCL), under the s
 * **Visiting Scholar**, HRAF Institute, Yale University，2022/7-2022/8
 
 # Part-time Appointment
-* **Research Assistant & Teaching Assistant**, Anthropology, UCL, 2022/9 expected
+* **Research Assistant & Teaching Assistant**, Anthropology, UCL, 2022/9 to now
 
 # Research Interests
 Human behavioural ecology; Sexual division of labour; Religious belief; Kinship system; Social organisation; Sex inequality
